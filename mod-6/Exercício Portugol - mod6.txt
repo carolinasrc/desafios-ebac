@@ -1,0 +1,23 @@
+1 - Acordo de manhã
+2 - Levanto da cama
+3 - Arrumo a cama
+
+4 - Entro no banheiro
+5 - Pego a pasta de dente
+6 - Abro a pasta de dente 
+7 - Pego a escova de dente
+8 - Passo a pasta de dente na escova de dente
+9 - Escovo os dentes
+10 - Guardo a pasta de dente e a escova 
+
+11 - Abro a porta do quarto
+12 - Vou até a cozinha
+13 - Abro o armário 
+14 - Pego café, coador e uma panela
+15 - Abro a torneira
+16 - Encho a panela de água
+17 - Coou o café
+18 - Coloco o café na garrafa
+19 - Pego a xícara
+20 - Sirvo o café
+21 - Tomo o café
