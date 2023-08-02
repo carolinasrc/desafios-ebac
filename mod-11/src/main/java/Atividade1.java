@@ -7,8 +7,7 @@ import java.util.Scanner;
 public class Atividade1 {
 
     public static void main(String[] args) {
-
-        System.out.println("***** ATIVIDADE 1 *****");
+        System.out.println("***** ATIVIDADE 1 - ORDERNA NOMES POR ORDEM ALFABÉTICA *****");
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Insira um nome: ");
@@ -22,6 +21,5 @@ public class Atividade1 {
         scan.close();
 
     }
-
 }
 
